@@ -2,11 +2,16 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: Arial, sans-serif;
+  font-family: 'Lato', Arial, sans-serif;
   background-color: #ffffff;
   color: #333;
   line-height: 1.6;
   font-size: 18px; /* Increased font size for better readability */
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Rubik', Arial, sans-serif;
 }
 
 /* Hero Section */
@@ -127,7 +132,4 @@ strong {
 footer {
   background-color: #16213e;
   color: #fff;
-  text-align: center;
-  padding: 20px 0;
-  font-size: 0.9em;
 }
